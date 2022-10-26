@@ -7,6 +7,12 @@ This is an Ningle application example
 ```
 git clone https://github.com/juan-reynoso/ningle-example.git
 ```
+### libev installation
+```
+aptitude install libev4
+```
+
+
 ### Load the project
 ![alt text](https://github.com/juan-reynoso/ningle-example/blob/main/wwwroot/img/figure-1.jpg)
 
@@ -56,3 +62,10 @@ Listening on 127.0.0.1:8080.
 http://localhost:8080/index.html
 
 ![alt text](https://github.com/juan-reynoso/ningle-example/blob/main/wwwroot/img/figure-2.png)
+
+## See Also
+* https://edicl.github.io/hunchentoot/
+
+* https://github.com/fukamachi/ningle
+
+* https://fukamachi.hashnode.dev/woo-a-high-performance-common-lisp-web-server
